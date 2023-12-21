@@ -7,7 +7,7 @@ from btn import start_btn
 from inline import *
 import random
 
-API_TOKEN = '6273084056:AAHxzhlwPOgnFE2usNZd9Pt5_NLSDLh0GKo'
+API_TOKEN = '6653648774:AAHiSM34oTeg6TXf5-RLQxjJKIBEPCERBis'
 
 logging.basicConfig(level=logging.INFO)
 
